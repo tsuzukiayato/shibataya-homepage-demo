@@ -1,0 +1,11 @@
+柴田屋整形外科 ホームページ Ver.46
+
+このZIPの中にフォルダはありません。すべてのファイルをGitHubリポジトリの最上位（index.htmlと同じ階層）へアップロードしてください。
+
+既存ファイルと同名のものは置き換えてください。
+新規の access_map_*.svg も必ずアップロードしてください。
+
+確認URL: https://tsuzukiayato.github.io/shibataya-homepage-demo/access.html?check=v46
+アクセスページに V46 の表記が表示されれば、新しいHTMLが反映されています。
+
+注：ZIPファイルそのものをGitHubへ置いてもWebサイトは更新されません。解凍したファイルをアップロードしてください。
